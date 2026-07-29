@@ -12,10 +12,11 @@ This repository showcases my work and contributions to the project.
 
 ### My Contributions
 
-- Developed frontend features using React Native and Expo
-- Implemented responsive UI components
-- Integrated REST APIs
-- Improved user experience and fixed bugs
+- Developed the mobile application using React Native and Expo.
+- Built reusable UI components.
+- Implemented authentication flows.
+- Integrated the application with the backend REST API.
+- Improved the user experience and fixed bugs.
 
 ---
 
@@ -125,6 +126,14 @@ The application is divided into two user roles:
 Authentication tokens are securely stored using **Expo Secure Store** on native platforms and **localStorage** on the web.
 
 ---
+
+## Backend
+
+This application depends on a private backend API that is not included in this repository.
+
+The backend was developed as part of the same university team project. This repository focuses on the mobile application and the work I contributed to it.
+
+Because the backend is private, the application cannot be fully run without access to the corresponding API and environment configuration.
 
 ## License
 
